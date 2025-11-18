@@ -12,3 +12,8 @@
 - prisma 6.2.1
 - typescript 5.7.3
 - sqlite 3.51.0
+
+### 참고 사이트
+
+- https://pnpm.io/
+- 추가 예정..
