@@ -16,4 +16,5 @@
 ### 참고 사이트
 
 - https://pnpm.io/
-- 추가 예정..
+- https://www.prisma.io/
+- https://v2.remix.run/docs
