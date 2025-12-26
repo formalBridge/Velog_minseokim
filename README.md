@@ -18,3 +18,4 @@
 - https://pnpm.io/
 - https://www.prisma.io/
 - https://v2.remix.run/docs
+- https://ko.react.dev/learn
