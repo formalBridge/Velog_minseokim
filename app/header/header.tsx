@@ -7,7 +7,7 @@ export function Header() {
         <nav>
           <ul>
             <li>
-              <a href="#">홈</a>
+              <a href="#">Home</a>
             </li>
             <li>
               <a href="#">About</a>
