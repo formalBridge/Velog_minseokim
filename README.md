@@ -19,3 +19,6 @@
 - https://www.prisma.io/
 - https://v2.remix.run/docs
 - https://ko.react.dev/learn
+- https://ko.vite.dev/guide/
+- https://developer.mozilla.org/ko/docs/Web/HTML/Reference/
+- https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/
