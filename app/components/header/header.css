@@ -2,18 +2,33 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 1em;
+  padding: 1rem;
 }
 
 .header_logo_block {
   display: flex;
   align-items: center;
-  gap: 0.5em;
+  gap: 0.5rem;
   font-weight: bold;
 }
 
 .header_right {
   display: flex;
   align-items: center;
-  gap: 0.5em;
+  gap: 0.5rem;
+}
+
+.round_button {
+  background-color: white;
+  border: 1px solid black;
+  border-radius: 2rem;
+  padding: 0.5rem 1rem;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.125s ease-in;
+}
+
+.round_button:hover {
+  background-color: black;
+  color: white;
 }

@@ -34,7 +34,7 @@ export function Header() {
           />
         </Link>
         <Link className="header_write" to="/">
-          <span>새 글 쓰기</span>
+          <button className="round_button">새 글 작성</button>
         </Link>
         <Link className="header_profile" to="/">
           <img
