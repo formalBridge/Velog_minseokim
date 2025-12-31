@@ -1,18 +1,18 @@
-.header_block {
+.Header_block {
   display: flex;
   justify-content: space-between;
   align-items: center;
   padding: 1rem;
 }
 
-.header_logo_block {
+.Header_logo_block {
   display: flex;
   align-items: center;
   gap: 0.5rem;
   font-weight: bold;
 }
 
-.header_right {
+.Header_right {
   display: flex;
   align-items: center;
   gap: 0.5rem;

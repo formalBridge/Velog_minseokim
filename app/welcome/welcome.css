@@ -1,0 +1,30 @@
+.Layout_block {
+  width: 100%;
+  margin: 0 auto;
+  margin-top: 5rem;
+}
+
+.UserProfile_block {
+  display: flex;
+  flex-direction: column;
+}
+
+.UserProfile_userInfo {
+  display: flex;
+  flex-direction: column;
+}
+
+.UserProfile_bottom {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.UserProfile_section {
+  display: flex;
+  align-items: center;
+  width: 100%;
+}
+.UserProfile_left {
+  display: flex;
+  margin-right: 1rem;
+}
