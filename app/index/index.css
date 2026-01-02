@@ -1,0 +1,95 @@
+.Layout_block {
+  width: 768px;
+  margin: 0 auto;
+  margin-top: 5rem;
+}
+
+.UserProfile_block {
+  display: flex;
+  flex-direction: column;
+}
+
+.UserProfile_userInfo {
+  display: flex;
+  flex-direction: column;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.UserProfile_description {
+  font-size: 1.1rem;
+  font-weight: normal;
+}
+
+.UserProfile_separator {
+  background: #e9ecef;
+  width: 100%;
+  height: 1px;
+  margin-top: 2rem;
+  margin-bottom: 1.5rem;
+}
+
+.UserProfile_bottom {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.UserProfile_section {
+  display: flex;
+  align-items: center;
+  width: 100%;
+}
+
+.UserProfile_left {
+  display: flex;
+  margin-right: 1rem;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.UserProfile_followInfo {
+  display: flex;
+  gap: 1rem;
+}
+
+.UserProfile_number {
+  font-weight: bold;
+  margin-right: 0.3rem;
+}
+
+.VelogTab_block {
+  margin-top: 72px;
+  margin-bottom: 72px;
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
+.VelogTab_wrapper {
+  display: flex;
+  position: relative;
+}
+
+.VelogTab_item {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 21.2px;
+  width: 128px;
+  height: 48px;
+  color: #495057;
+  transition: color 0.25s ease-in-out;
+  font-weight: 600;
+}
+
+.VelogTab_item.active {
+  color: #20c997;
+}
+
+.VelogTab_indicator {
+  width: 128px;
+  height: 2px;
+  background: #20c997;
+  position: absolute;
+  bottom: -2px;
+}
