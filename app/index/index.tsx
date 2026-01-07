@@ -65,7 +65,7 @@ export function Index() {
           >
             소개
           </NavLink>
-          <div className="VelogTab_indicator" style={{ left: "0%" }}></div>
+          <div className="VelogTab_indicator"></div>
         </div>
       </div>
     </div>

@@ -9,6 +9,7 @@ export default function Posts() {
             alt="search"
             title="search"
           />
+          <input placeholder="검색어를 입력하세요" />
         </div>
       </div>
     </section>
