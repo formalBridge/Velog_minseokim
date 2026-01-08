@@ -1,7 +1,7 @@
 .VelogLayout_section {
   position: relative;
   width: 100%;
-  max-width: 1200px;
+  max-width: 736px;
   margin: 0 auto;
   padding: 0 1rem;
 }
@@ -33,6 +33,7 @@
 
 .VelogTagVerticalList_block {
   width: 200px;
+  left: -216px;
   position: absolute;
 }
 
