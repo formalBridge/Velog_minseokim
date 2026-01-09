@@ -8,7 +8,7 @@
 
 - node 20.17.0
 - pnpm 9.10.0
-- remix
+- remix <- 최근 react-router v7에 합쳐짐
 - prisma 6.2.1
 - typescript 5.7.3
 - sqlite 3.51.0
@@ -18,6 +18,7 @@
 - https://pnpm.io/
 - https://www.prisma.io/
 - https://v2.remix.run/docs
+- https://reactrouter.com/home
 - https://ko.react.dev/learn
 - https://ko.vite.dev/guide/
 - https://developer.mozilla.org/ko/docs/Web/HTML/Reference/
