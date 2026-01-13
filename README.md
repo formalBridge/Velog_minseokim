@@ -23,3 +23,4 @@
 - https://ko.vite.dev/guide/
 - https://developer.mozilla.org/ko/docs/Web/HTML/Reference/
 - https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/
+- https://docs.cloud.google.com/api-gateway/docs/authenticating-users-auth0?hl=ko
